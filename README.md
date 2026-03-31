@@ -16,7 +16,7 @@ F --> G[Final Report]
 
 ## 🗂 ER Diagram
 
-![ER Diagram](er-diagram.png)
+![ER Diagram](er-daigram.png)
 
 ---
 
